@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grover01g
 - 👀 I’m interested in technology and fitness
-- 🌱 I’m currently enrolled in a UG program BE/B.Tech
+- 🌱 Final year information science engineering student
 - 📫 How to reach me gauravgrover987@gmail.com
 
 <!---
